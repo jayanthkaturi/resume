@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  28 JUL 2019 14:59
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.1.5)  11 AUG 2019 11:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -916,8 +916,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 31.
 
-Underfull \hbox (badness 1152) in paragraph at lines 24--37
-\TU/Lato-Lig(0)/m/n/10 Linux • Cisco Packet Tracer • Kuber-
+Underfull \hbox (badness 1127) in paragraph at lines 24--37
+\TU/Lato-Lig(0)/m/n/10 Blender • graphql • Django • flask •
  []
 
 
